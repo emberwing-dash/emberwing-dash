@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishav Goswami
+[Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishav Goswami
 ======================================================================================================================================
 
 Indie Developer
@@ -26,3 +26,4 @@ I enjoy spending my leisure through coding and building something new.
                     </picture>
                     </a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/emberwing-dash"><img src="https://github-readme-stats.vercel.app/api?username=emberwing-dash&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emberwing-dash's GitHub stats" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/emberwing-dash/Virtual-Buddy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emberwing-dash&repo=Virtual-Buddy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/emberwingdash"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
+](https://github.com/emberwing-dash)
