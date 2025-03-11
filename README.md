@@ -11,6 +11,9 @@ I enjoy spending my leisure through coding and building something new.
 * 🧠  I'm learning Unity3D
 * ⚡  drawing game assets
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emberwing-dash" alt="emberwing-dash" /></a> </p>
+
+
 ### Skills
 
 
