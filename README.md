@@ -8,8 +8,8 @@ I enjoy spending my leisure through coding and building something new.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [goswamirishav520@gmail.com](mailto:goswamirishav520@gmail.com)
-* 🧠  I'm learning Unity3D
-* ⚡  drawing game assets
+* 🧠  I'm learning Unity3D, Blender and Unreal Engine
+* ⚡  making game assets, trying out AR and VR 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emberwing-dash" alt="emberwing-dash" /></a> </p>
 
