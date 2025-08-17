@@ -2,7 +2,7 @@
 # 💫 Hi 👋, I'm Rishav Goswami
 **An Indie Developer || 3D Artist**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **goswamirishav520@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** VR and 3D modelling
 - 🌱 **I’m currently learning:** Unity 
