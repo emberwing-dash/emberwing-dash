@@ -25,10 +25,6 @@ Email Me 👉 ✉️ **goswamirishav520@gmail.com** For Collaboration/Project or
 ![](https://nirzak-streak-stats.vercel.app/?user=emberwing-dash&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emberwing-dash&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## GitHub Stats
-
-![emberwing-dash's GitHub stats](https://github-readme-stats.vercel.app/api?username=emberwing-dash&show_icons=true&theme=radical)
-
 
 
 ### 🔝 Top Contributed Repo
