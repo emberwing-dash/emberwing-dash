@@ -10,6 +10,7 @@ Email Me 👉 ✉️ **goswamirishav520@gmail.com** For Collaboration/Project or
 - 💬 **Ask me about:** Coding, Art
 - 📫 **How to reach me:** goswamirishav520@gmail.com
 
+## 🏆 Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emberwing-dash" alt="codebreakeryt" /></a> </p>
 
 
